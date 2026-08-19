@@ -73,7 +73,6 @@
 </head>
 <body>
   <div class="card">
-    <img class="logo" src="/uprightA.png" alt="Achintya" />
     <p class="title">Achintya</p>
     <p class="tagline">The silent revolution to take the world from Internet to Innernet!</p>
 
