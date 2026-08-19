@@ -1,1 +1,1 @@
-# achintya-org.github.io
+# Achintya
